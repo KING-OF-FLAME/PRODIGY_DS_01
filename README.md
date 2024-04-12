@@ -15,6 +15,8 @@ This repository contains a Python script that visualizes the distribution of age
 1. Clone the repository: `git clone https://github.com/KING-OF-FLAME/PRODIGY_DS_01.git`
 2. Navigate to the project directory: `cd PRODIGY_DS_01`
 3. Open the Jupyter Notebook or run the Python script.
+4. Open cmd then naviagate to the project path
+5. run `python main.py`
 
 The script will generate two plots:
 1. A histogram displaying the distribution of ages in the population.
