@@ -71,11 +71,6 @@ Note: The provided code generates random data for demonstration purposes. To vis
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
 ## Acknowledgments
-- [Yash Raj](https://github.com/your_username) - Creator and Maintainer
+- [Yash Raj](https://github.com/KING-OF-FLAME) - Creator and Maintainer
 - Special thanks to the Prodigy Infotech team for providing this internship opportunity.
 
-Citations:
-[1] https://i.ibb.co/RDcvHJL/DALL-E-2023-12-30-10-47-06-Design-a-professional-logo-for-an-Auto-Keyword-Suggestion-Tool-including.png
-[2] https://img.shields.io/github/repo-size/KING-OF-FLAME/keyword_suggestions_tool?color=orange&style=flat-square
-[3] https://github.com/KING-OF-FLAME/keyword_suggestions_tool
-[4] https://pplx-res.cloudinary.com/image/upload/v1712926934/user_uploads/qeussqqck/Screenshot_2024-04-12_183154.jpg
