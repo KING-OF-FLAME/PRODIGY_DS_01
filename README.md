@@ -1,6 +1,7 @@
 
 
 # Prodigy Infotech Data Science Internship Task 01
+[![Repo Size](https://img.shields.io/github/repo-size/KING-OF-FLAME/PRODIGY_DS_01?style=flat-square&color=orange)](https://github.com/KING-OF-FLAME/PRODIGY_DS_01)
 
 ## Introduction
 This repository contains a Python script that visualizes the distribution of ages and genders in a population using histograms and bar charts. The script utilizes the `matplotlib` and `numpy` libraries to generate random data and create informative plots.
@@ -11,7 +12,7 @@ This repository contains a Python script that visualizes the distribution of age
 - Matplotlib
 
 ## Usage
-1. Clone the repository: `git clone https://github.com/your_username/PRODIGY_DS_01.git`
+1. Clone the repository: `git clone https://github.com/KING-OF-FLAME/PRODIGY_DS_01.git`
 2. Navigate to the project directory: `cd PRODIGY_DS_01`
 3. Open the Jupyter Notebook or run the Python script.
 
